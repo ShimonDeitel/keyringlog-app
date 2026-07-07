@@ -1,0 +1,27 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod_1",
+      "localizations": [
+        {
+          "description": "Catalog every physical key in the house and who has a copy of it.",
+          "displayName": "KeyRingLog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.keyringlog.pro",
+      "referenceName": "KeyRingLog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
